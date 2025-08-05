@@ -33,7 +33,7 @@ I'm a final-year student majoring in Information Systems at Ho Chi Minh City Uni
     * Recording monthly electricity consumption index.
     * Automatic calculation and generation of electricity bills.
     * Invoice payment status management.
-* **GitHub**: ([https://github.com/nguyentruongduy/banQuanAo](https://github.com/nguyentruongduy/Quan_Ly_Dien_Luc))
+* **GitHub**: ([https://github.com/nguyentruongduy/Quan_Ly_Dien_Luc](https://github.com/nguyentruongduy/Quan_Ly_Dien_Luc))
 ### 👕 E-commerce Website (ASP.NET MVC)
 * **Description**: A clothing store website with basic e-commerce functionalities.
 * **Technologies**: C#, ASP.NET MVC, MS SQL Server, Bootstrap.
